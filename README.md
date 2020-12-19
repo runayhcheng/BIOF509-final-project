@@ -28,5 +28,5 @@ I have microarray data from blood samples of 338 individuals, 261  of whom has I
 ### How to run scripts
 Download 'combined' folder and unzip from this link:https://drive.google.com/file/d/1Cd4VzmU8Jwh0EK9h9Sg5WPEaB1qyMJ5a/view?usp=sharing
 Download 'rankedataNoIndexoTransp.csv from this link:https://drive.google.com/file/d/1YhkL1phAcq1gDl0gI0FhJKxWojimN8KJ/view?usp=sharing
-To run codeOOP on the microarray data, run: `python codeOOP.py`. The paths of the different data have already been set. 
+To run codeOOP on the microarray data, run: `python codeOOP.py`. The paths of the different data have already been set but the os path require reset depending on the location of the downloads.
 To see indivudal steps and output, please look at final_withallDataDisplayed.py (HTML file).
