@@ -3,15 +3,15 @@
 
 ### Files Included
 1. Data: 
--combined (folder):with all patient micrarrays (see How to Run Script for link to download)
--codeToGene: code of genes on microarray 
--sampleInfo: patient to sample match
--rankedDataNoIndexoTransp.csv: ranked the expression of each gene wth percentile ranking
+  -combined (folder):with all patient micrarrays (see How to Run Script for link to download)
+  -codeToGene: code of genes on microarray 
+  -sampleInfo: patient to sample match
+  -rankedDataNoIndexoTransp.csv: ranked the expression of each gene wth percentile ranking (see How to Run Script for link to download)
 2. Results:
--codeOOP.py.ipynb : OOP coding with final output of the table showing dysregulatd gene
--final_withallDataDisplayed.py : code with exploratory data analysis and all inter-step graphs shown
--genes and cancer association: dysregulated gene found and references to association with cancer, if applicable
--IEE
+  -codeOOP.py.ipynb : OOP coding with final output of the table showing dysregulatd gene
+  -final_withallDataDisplayed.py : code with exploratory data analysis and all inter-step graphs shown
+  -genes and cancer association: dysregulated gene found and references to association with cancer, if applicable
+  -IEEE format final project
 
 ### Table of Contents
 - Introduction 
@@ -27,5 +27,6 @@ I have microarray data from blood samples of 338 individuals, 261  of whom has I
 
 ### How to run scripts
 Download 'combined' folder and unzip from this link:https://drive.google.com/file/d/1Cd4VzmU8Jwh0EK9h9Sg5WPEaB1qyMJ5a/view?usp=sharing
+Download 'rankedataNoIndexoTransp.csv from this link:https://drive.google.com/file/d/1YhkL1phAcq1gDl0gI0FhJKxWojimN8KJ/view?usp=sharing
 To run codeOOP on the microarray data, run: `python codeOOP.py`. The paths of the different data have already been set. 
 To see indivudal steps and output, please look at final_withallDataDisplayed.py (HTML file).
